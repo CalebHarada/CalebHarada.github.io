@@ -23,7 +23,7 @@ repository               : "CalebHarada/CalebHarada.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me.jpg"
+  avatar           : "calebharada.jpg"
   name             : "Caleb K. Harada"
   pronouns         : "they/them"  
   bio              : "Exoplanet Astronomer"
@@ -126,7 +126,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
