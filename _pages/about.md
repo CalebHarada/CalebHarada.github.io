@@ -23,6 +23,14 @@ redirect_from:
 </div>
 
 
+Want to learn more?
+-------------------
+
+- [Explore my research](/research)
+- [Read my CV](/CV)
+- add more links later...
+
+
 
 
 
