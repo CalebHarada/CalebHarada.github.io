@@ -1,13 +1,41 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+<div style="display: flex; align-items: start; gap: 20px;">
+    <div style="flex: 1;">
+        <p>
+          Hello! I'm an <b>astronomer and planetologist at UC Berkeley</b> currently pursuing my Ph.D. in astrophysics. 
+        </p>
+        <p>
+          My research broadly includes the detection and characterization of planets orbiting stars beyond the Solar System (known as <a href="https://science.nasa.gov/exoplanets/" target="_blank">exoplanets</a>) and how observations of these objects can teach us about our home planet, how we got here, and whether we are alone. At present, a few things that I'm particularly interested in include <b>cold giant exoplanets, astrophysical habitability, star&ndash;planet interactions, and exomoons</b>. My research is supported in part by funding from NASA and the National Science Foundation. 
+        </p>
+        <p>
+          Before joining the <a href="https://astro.berkeley.edu" target="_blank">UC Berkeley Astronomy Department</a>, I completed my undergraduate education degrees at the University of Maryland, College Park, where I majored in astronomy and physics. Beyond research, I'm passionate about making science more inclusive and accessible through my teaching, mentoring, and outreach. When I'm not thinking about science, I love to hike, look at birds, hang out with cats, shop at <a href="https://www.berkeleybowl.com/about" target="_blank">Berkeley Bowl</a>, and eat good food.
+        </p>
+    </div>
+    <img src="images/calebharada_talking.jpg" alt="Photo of Caleb Harada giving a talk at a AAS meeting" style="max-width: 240px; height: auto;">
+</div>
+
+
+Want to learn more?
+-------------------
+
+- [Explore my research](/research)
+- [Read my CV](/CV)
+- add more links later...
+
+
+
+
+
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
@@ -53,4 +81,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
