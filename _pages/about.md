@@ -19,7 +19,7 @@ redirect_from:
           Before joining the <a href="https://astro.berkeley.edu" target="_blank">UC Berkeley Astronomy Department</a>, I completed my undergraduate education degrees at the University of Maryland, College Park, where I majored in astronomy and physics. Beyond research, I'm passionate about making science more inclusive and accessible through my teaching, mentoring, and outreach. When I'm not thinking about science, I love to hike, look at birds, hang out with cats, shop at <a href="https://www.berkeleybowl.com/about" target="_blank">Berkeley Bowl</a>, and eat good food.
         </p>
     </div>
-    <img src="images/calebharada_talking.jpg" alt="Photo of Caleb Harada giving a talk at a AAS meeting" style="max-width: 240px; height: auto;">
+    <img src="images/calebharada_talking.jpg" alt="Photo of Caleb Harada giving a talk at a AAS meeting" style="max-width: 240px; height: auto; border-radius: 10px">
 </div>
 
 
@@ -29,7 +29,6 @@ Want to learn more?
 - [Explore my research](/research)
 - [Read my CV](/CV)
 - add more links later...
-
 
 
 
