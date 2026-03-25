@@ -10,9 +10,12 @@
 main:
   - title: "Research"
     url: /research/
-    
+
   - title: "CV"
     url: /cv/
+
+  - title: "SPORES"
+    url: https://calebharada.github.io/spores/
     
   # - title: "CV"
   #   url: /cv-json/
