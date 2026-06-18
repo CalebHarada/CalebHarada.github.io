@@ -10,19 +10,36 @@ redirect_from:
 <div style="display: flex; align-items: start; gap: 20px;">
     <div style="flex: 1;">
         <p>
-          Hello! I'm an <b>astronomer and planetologist at UC Berkeley</b> currently pursuing my Ph.D. in astrophysics. 
+          Hello! I'm a <b>postdoctoral researcher at the Institute for Astronomy 
+          (IfA)</b>, located at the University of Hawai&#699;i at M&amacr;noa. 
         </p>
         <p>
-          My research broadly includes the detection and characterization of planets orbiting stars beyond the Solar System (known as <a href="https://science.nasa.gov/exoplanets/" target="_blank">exoplanets</a>) and how observations of these objects can teach us about our home planet, how we got here, and whether we are alone. At present, a few things that I'm particularly interested in include <b>cold giant exoplanets, astrophysical habitability, star&ndash;planet interactions, and exomoons</b>. My research is supported in part by funding from NASA and the National Science Foundation. 
+          I'm broadly interested in understanding stars and planets beyond the 
+          Solar System as evolving systems that help us learn about our own 
+          planet, how we got here, and whether we are alone in the cosmos. My 
+          research includes characterizing stars and their planets 
+          (i.e., <a href="https://science.nasa.gov/exoplanets/" target="_blank">
+          exoplanets</a>), investigating astrophysical factors influencing 
+          planetary habitability, and probing the physics of exoplanet 
+          atmospheres. My work is supported in part by funding from NASA and 
+          the National Science Foundation. 
         </p>
         <p>
-          Before joining the <a href="https://astro.berkeley.edu" target="_blank">UC Berkeley Astronomy Department</a>, I completed my undergraduate education degrees at the University of Maryland, College Park, where I majored in astronomy and physics. Beyond research, I'm passionate about making science more inclusive and accessible through my teaching, mentoring, and outreach. When I'm not thinking about science, I love to hike, look at birds, hang out with cats, shop at <a href="https://www.berkeleybowl.com/about" target="_blank">Berkeley Bowl</a>, and eat good food.
+          Prior to joining the 
+          <a href="https://www.ifa.hawaii.edu" target="_blank">IfA</a>, I earned 
+          my M.A. and Ph.D. in Astrophysics from the University of California, Berkeley 
+          in 2026. Before that, I completed two B.S. degrees in astronomy and 
+          physics at the University of Maryland, College Park. Beyond research, 
+          I'm passionate about making science more accessible to the public and 
+          improving diversity, equity, and inclusion within astronomy. When I'm 
+          not thinking about science, I love hiking, birdwatching, hanging 
+          out with my cat, and eating good food.
         </p>
     </div>
     <div>
-      <div>
+      <!-- <div>
         <img src="images/calebharada_talking.jpg" alt="Photo of Caleb Harada giving a talk at a AAS meeting" style="max-width: 220px; height: auto; margin-bottom: 10px;">
-      </div>
+      </div> -->
       <div>
         <img src="images/lookingup.jpg" alt="Photo of Caleb Harada looking up at the night sky" style="max-width: 220px; height: auto;">
       </div>
@@ -36,7 +53,6 @@ Want to learn more?
 - [Explore my research](/research)
 - [Read my CV](/CV)
 - add more links later...
-
 
 
 

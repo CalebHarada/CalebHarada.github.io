@@ -9,17 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<object data="/../files/Harada_CV.pdf" type="application/pdf" width="500px" height="500px">
+    <embed src="/../files/Harada_CV.pdf" type="application/pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/../files/Harada_CV.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
+
+<!-- Education
 ---------
 * **Ph.D. in Astrophysics**, University of California, Berkeley, 2026 (expected)
-* **M.A. in Astrophysics**, University of California, Berkeley, 2022
-* **B.S. in Astronomy**, University of Maryland, College Park, 2020
-* **B.S. in Physics**, University of Maryland, College Park, 2020
 
 Experience
 ----------
-* blah blah
-
+* blah blah -->
 
 <!-- Publications
 ======

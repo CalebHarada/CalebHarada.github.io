@@ -24,13 +24,13 @@ repository               : "CalebHarada/CalebHarada.github.io"
 author:
   # Biographic information
   avatar           : "calebharada.jpg"
-  name             : "Caleb K. Harada"
+  name             : "Caleb K. Harada, Ph.D."
   pronouns         : "they/them"  
-  bio              : "Exoplanet Astronomer"
-  location         : "Oakland, CA, USA"
-  employer         : "UC Berkeley"
+  bio              : "Astronomer"
+  location         : "O&#699ahu, HI, USA"
+  employer         : "Institute for Astronomy"
   uri              : # URL
-  email            : "charada@berkeley.edu" 
+  email            : "ckharada@hawaii.edu" 
 
   # Academic websites
   academia         : # URL
