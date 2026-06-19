@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="/../files/Harada_CV.pdf" type="application/pdf" width="500px" height="500px">
-    <embed src="/../files/Harada_CV.pdf" type="application/pdf">
+<object data="/files/Harada_CV.pdf" type="application/pdf" width="500px" height="500px">
+    <embed src="/files/Harada_CV.pdf" type="application/pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/../files/Harada_CV.pdf">Download PDF</a>.</p>
     </embed>
 </object>

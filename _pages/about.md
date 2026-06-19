@@ -27,8 +27,8 @@ redirect_from:
         <p>
           Prior to joining the 
           <a href="https://www.ifa.hawaii.edu" target="_blank">IfA</a>, I earned 
-          my M.A. and Ph.D. in Astrophysics from the University of California, Berkeley 
-          in 2026. Before that, I completed two B.S. degrees in astronomy and 
+          my MA and PhD in Astrophysics from the University of California, Berkeley 
+          in 2026. Before that, I completed two BS degrees in astronomy and 
           physics at the University of Maryland, College Park. Beyond research, 
           I'm passionate about making science more accessible to the public and 
           improving diversity, equity, and inclusion within astronomy. When I'm 
