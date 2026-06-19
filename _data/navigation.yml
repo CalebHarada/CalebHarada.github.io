@@ -14,14 +14,17 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "Pedagogy"
+    url: /pedagogy/
+
+  - title: "Code"
+    url: /code/
+
   - title: "SPORES"
     url: https://calebharada.github.io/spores/
     
   - title: "Land Acknowledgment"
     url: /land-acknowledgment/
-
-  # - title: "Publications"
-  #   url: /publications/
 
   # - title: "Talks"
   #   url: /talks/    
@@ -35,5 +38,5 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/

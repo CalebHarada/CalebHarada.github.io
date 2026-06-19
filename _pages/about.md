@@ -16,7 +16,7 @@ redirect_from:
         </p>
         <p>
           I'm broadly interested in understanding <b>stars and planets</b> beyond the 
-          Solar System as evolving systems that help us learn about our own 
+          Solar System as evolving systems to help us learn about our own 
           planet, how we got here, and whether we are alone in the cosmos. My 
           research includes characterizing stars and their planets 
           (i.e., <a href="https://science.nasa.gov/exoplanets/" target="_blank">
@@ -52,6 +52,8 @@ Want to learn more?
 
 - [Explore my research](/research)
 - [Read my CV](/CV)
+- [Pedagogical resources](/pedagogy)
+- [My open-source code](/code)
 - <a href="https://calebharada.github.io/spores/" target="_blank">SPORES-HWO homepage</a>
 - [Land acknowledgment](/land-acknowledgment)
 
