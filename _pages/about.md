@@ -10,11 +10,12 @@ redirect_from:
 <div style="display: flex; align-items: start; gap: 20px;">
     <div style="flex: 1;">
         <p>
-          Hello! I'm a <b>postdoctoral researcher at the Institute for Astronomy 
-          (IfA)</b>, located at the University of Hawai&#699;i at M&amacr;noa. 
+          Hello! I'm a <b>postdoctoral researcher</b> at the <b>Institute for Astronomy 
+          (<a href="https://www.ifa.hawaii.edu" target="_blank">IfA</a>)</b> 
+          at the University of Hawai&#699;i at M&amacr;noa. 
         </p>
         <p>
-          I'm broadly interested in understanding stars and planets beyond the 
+          I'm broadly interested in understanding <b>stars and planets</b> beyond the 
           Solar System as evolving systems that help us learn about our own 
           planet, how we got here, and whether we are alone in the cosmos. My 
           research includes characterizing stars and their planets 
@@ -25,9 +26,8 @@ redirect_from:
           the National Science Foundation. 
         </p>
         <p>
-          Prior to joining the 
-          <a href="https://www.ifa.hawaii.edu" target="_blank">IfA</a>, I earned 
-          my MA and PhD in Astrophysics from the University of California, Berkeley 
+          Prior to joining the IfA, I earned my MA and PhD in Astrophysics 
+          from the University of California, Berkeley 
           in 2026. Before that, I completed two BS degrees in astronomy and 
           physics at the University of Maryland, College Park. Beyond research, 
           I'm passionate about making science more accessible to the public and 
@@ -41,7 +41,7 @@ redirect_from:
         <img src="images/calebharada_talking.jpg" alt="Photo of Caleb Harada giving a talk at a AAS meeting" style="max-width: 220px; height: auto; margin-bottom: 10px;">
       </div> -->
       <div>
-        <img src="images/lookingup.jpg" alt="Photo of Caleb Harada looking up at the night sky" style="max-width: 220px; height: auto;">
+        <img src="images/lookingup.jpg" alt="Photo of me looking up at the night sky" style="max-width: 220px; height: auto;">
       </div>
     </div>
 </div>
@@ -52,7 +52,12 @@ Want to learn more?
 
 - [Explore my research](/research)
 - [Read my CV](/CV)
-- add more links later...
+- <a href="https://calebharada.github.io/spores/" target="_blank">SPORES-HWO homepage</a>
+- [Land acknowledgment](/land-acknowledgment)
+
+
+
+
 
 
 

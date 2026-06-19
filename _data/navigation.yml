@@ -17,8 +17,8 @@ main:
   - title: "SPORES"
     url: https://calebharada.github.io/spores/
     
-  # - title: "CV"
-  #   url: /cv-json/
+  - title: "Land Acknowledgment"
+    url: /land-acknowledgment/
 
   # - title: "Publications"
   #   url: /publications/

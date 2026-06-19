@@ -28,7 +28,6 @@ special is our solar system? How did our planet come to be?
 Are we alone?
 
 
-
 <!-- <figure>
   <img src="/images/earthlike_planets.jpg" alt="Image of artist's impression of Earth-like exoplanets" style="display: block; margin: 0 auto; width: 100%; max-width: 1200px; margin-bottom: 5px; border-radius: 10px;">
   <figcaption>Artist's impression of Earth-like exoplanets (NASA/JPL&ndash;Caltech).</figcaption>
@@ -179,12 +178,13 @@ of N-body and tidal evolution simulations. One example of an N-body setup for
 this system is shown by the animation in Fig. 5. An example orbital stability 
 map resulting from hundreds of simulations is shown in Fig. 6. The parameter
 space was explored efficiently using a quadtree data structure, which I 
-implemented in the Python package <a>astroQTpy</a>. The results from these
-simulations suggest that long-term stable, Earth-sized moons around HIP 41378 f 
-would be dynamically viable and consistent with the K2 and HST data, thus 
-demonstrating the promise of HIP 41378 f as a future laboratory
-for testing theories of exomoon formation and habitability. See the publication
-highlights below to learn more about exomoons and the HIP 41378 system.
+implemented in the Python package <a href="https://astroqtpy.readthedocs.io/en/latest/" target="_blank">astroQTpy</a>. 
+The results from these simulations suggest that long-term stable, Earth-sized 
+moons around HIP 41378 f would be dynamically viable and consistent with the K2 
+and HST data, thus demonstrating the promise of HIP 41378 f as a future 
+laboratory for testing theories of exomoon formation and habitability. See the 
+publication highlights below to learn more about exomoons and the 
+HIP 41378 system.
 
 
 <figure style="margin: 5%;">
