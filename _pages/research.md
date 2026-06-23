@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 
-<a href="https://tinyurl.com/scixsearch" target="_blank" style="text-decoration: none;">Find my publications on SciX (ADS) <i class="fa-solid fa-up-right-from-square"></i><a>
+<a href="https://tinyurl.com/scixsearch" target="_blank" style="text-decoration: none;">Find my publications on SciX (ADS) <sup><i class="fa fa-external-link fa-sm" aria-hidden="true"></i></sup><a>
 
 
 At a Glance: Worlds Around Other Stars
@@ -84,7 +84,7 @@ around many of the Tier 1 targets, which are necessary to inform HWO's overall a
 provide context for HWO's measurements of potential biosignatures on Earth-size HZ planets.
 
 *To learn more about my work on precursor and preparatory science for HWO, **see the main 
-<a href="https://calebharada.github.io/spores/" target="_blank">SPORES-HWO</a>
+<a href="https://calebharada.github.io/spores/" target="_blank">SPORES-HWO <sup><i class="fa fa-external-link fa-sm" aria-hidden="true"></i></sup></a>
 project website**, or check out some of the papers listed below.*
 
 <figure style="margin: 5%;">

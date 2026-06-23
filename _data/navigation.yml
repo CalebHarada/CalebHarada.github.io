@@ -20,11 +20,11 @@ main:
   - title: "Code"
     url: /code/
 
-  - title: "SPORES"
-    url: https://calebharada.github.io/spores/
-    
   - title: "Land Acknowledgment"
     url: /land-acknowledgment/
+
+  - title: "SPORES"
+    url: https://calebharada.github.io/spores/
 
   # - title: "Talks"
   #   url: /talks/    

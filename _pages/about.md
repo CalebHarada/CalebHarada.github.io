@@ -15,25 +15,25 @@ redirect_from:
           at the University of Hawai&#699;i at M&amacr;noa. 
         </p>
         <p>
-          I'm broadly interested in understanding <b>stars and planets</b> beyond the 
-          Solar System as evolving systems to help us learn about our own 
-          planet, how we got here, and whether we are alone in the cosmos. My 
-          research includes characterizing stars and their planets 
-          (i.e., <a href="https://science.nasa.gov/exoplanets/" target="_blank">
-          exoplanets</a>), investigating astrophysical factors influencing 
-          planetary habitability, and probing the physics of exoplanet 
-          atmospheres. My work is supported in part by funding from NASA and 
-          the National Science Foundation. 
+          I'm broadly interested in understanding <b>stars and planets</b> 
+          as complex evolving systems that help us learn about our own 
+          planet, how we got here, and whether life may exist elsewhere in the 
+          cosmos. My research includes characterizing extrasolar planets 
+          (<a href="https://science.nasa.gov/exoplanets/" target="_blank">exoplanets</a>) 
+          and their stellar hosts, investigating how astrophysical 
+          context relates to planetary habitability, and probing the physics of 
+          exoplanet atmospheres. My work is supported in part by funding from 
+          NASA and the National Science Foundation. 
         </p>
         <p>
-          Prior to joining the IfA, I earned my MA and PhD in Astrophysics 
+          Before joining the IfA, I earned my MA and PhD in Astrophysics 
           from the University of California, Berkeley 
-          in 2026. Before that, I completed two BS degrees in astronomy and 
+          in 2026. Prior to that, I completed dual BS degrees in astronomy and 
           physics at the University of Maryland, College Park. Beyond research, 
           I'm passionate about making science more accessible to the public and 
           improving diversity, equity, and inclusion within astronomy. When I'm 
-          not thinking about science, I love hiking, birdwatching, hanging 
-          out with my cat, and eating good food.
+          not thinking about science, I enjoy hiking, birdwatching, hanging 
+          out with my cat, and eating yummy food.
         </p>
     </div>
     <div>
